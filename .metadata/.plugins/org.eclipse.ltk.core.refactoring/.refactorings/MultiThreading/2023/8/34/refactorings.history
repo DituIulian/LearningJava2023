@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;i&apos; in &apos;threads.Task.Task(...)&apos; to &apos;number&apos;&#x0D;&#x0A;- Original project: &apos;MultiThreading&apos;&#x0D;&#x0A;- Original element: &apos;threads.Task.Task(int).i&apos;&#x0D;&#x0A;- Renamed element: &apos;i&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;i&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;threads{ExecuterServiceRunner.java[Task~Task~I@i!151!155!155!155!I!0!true" name="number" references="true" stamp="1692722373913" version="1.0"/>
+</session>
